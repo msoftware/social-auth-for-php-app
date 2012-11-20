@@ -1,0 +1,56 @@
+html,body,div,span,applet,object,iframe,input,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{
+	margin:0;
+	padding:0;
+}
+a { text-decoration:none; }
+img { border:0px; }
+h1 {
+	font-size:30px;
+	font-family: 'Droid Sans', sans-serif, Arial;
+}
+
+#login_zone {
+	width:500px;
+	margin: 0px auto;
+	border:5px solid #8DC70A;
+	-moz-box-shadow: 0px 0px 10px #719502;
+	-webkit-box-shadow: 0px 0px 10px #719502;
+	box-shadow: 0px 0px 10px #719502;
+}
+
+#login_zone_title {
+	padding:10px;
+	background:#8DC70A;
+	color:#fff;
+	font-size:22px;
+	font-family: 'Cuprum', sans-serif, Arial;
+	text-align:center;
+}
+
+#login_zone_confirm {
+	margin: 20px auto 20px auto;
+	text-align:center;
+}
+#login_zone_confirm a {
+	padding:10px;
+	background:#719502;
+	color:#fff;
+	font-size:16px;
+	font-family: 'Droid Sans', sans-serif, Arial;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	text-align:center;
+}
+#login_zone_confirm a:hover {
+	background:#8DC70A;
+}
+
+#credits, #header {
+	width:500px;
+	margin: 20px auto;
+}
+
+#credits a {
+	color: #627B95;
+}
